@@ -3,7 +3,19 @@
 @import "./utils/visually-hidden";
 
 // components
+@import "./components/basic";
 @import "./components/button";
 @import "./components/logo";
 @import "./components/modal-form";
-@import "./components/subscribe-form"
+@import "./components/subscribe-form";
+
+// layouts
+@import "./layouts/header";
+@import "./layouts/hero";
+@import "./layouts/benefits";
+@import "./layouts/skills";
+@import "./layouts/team";
+@import "./layouts/clients";
+@import "./layouts/footer";
+@import "./layouts/portfolio"
+
